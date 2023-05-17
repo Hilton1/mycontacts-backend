@@ -4,7 +4,7 @@ const client = new Client({
   host: 'localhost',
   port: 5432,
   user: 'root',
-  password: 'amhm2010',
+  password: 'root',
   database: 'mycontacts',
 });
 
